@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoorulhudaImran491
 - 🌱 I’m currently a student of computer science. 
-- 💞️ I’m interested in coding. I want to learn about hacking. 
+- 💞️ I’m interested in coding. I want to learn          about hacking. 
 _ 📧 Email me at noorulhuda1060994@gmail.com 
 
 
